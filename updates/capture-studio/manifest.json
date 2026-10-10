@@ -1,0 +1,30 @@
+{
+  "ocurisk_lab/web/ui.js": {
+    "sha256": "e467fd278761f119fe79416e000b270a83489777633646c73ca0517652fc2b40",
+    "baseline_sha256": "d440c1b8d00a7412a965c00b445d939fb26025a0f9dcd510879a2e168cd1fb38"
+  },
+  "ocurisk_lab/web/app.js": {
+    "sha256": "9ccc8b8ac5c3e0fd248d833ad9528dcc0ce6534f75e57cb3ecbe1cd5d413a29c",
+    "baseline_sha256": "bf9bc7fb4c1247774f97ae258d05c69738bd9c561e25b8eb7aa92a377f845f49"
+  },
+  "ocurisk_lab/web/live-capture.js": {
+    "sha256": "3b39618fa5b0388e7f6a3c17fba16ad7445639b279ceac30d92d7cdb4c6c7232",
+    "baseline_sha256": "16d707e9ec2a6b045918a77fefc8bdbd900a21cfc7404a21242f0544683fab4d"
+  },
+  "ocurisk_lab/server.py": {
+    "sha256": "0ba5643045f7d348e07ba09f5ce2c6e44fd0e81604259cbce290339f68a45e42",
+    "baseline_sha256": "0502b873596dc88770704a8ee4c5b4bd9444ccb95929fffaad1de384c20315d2"
+  },
+  "tests/browser/capture-regression.cjs": {
+    "sha256": "ca549a068145c25f2629dcd2e09f6272343b6d31543fdc032cc1622e970eb2a9",
+    "baseline_sha256": null
+  },
+  "tests/test_service_logging.py": {
+    "sha256": "5f2e3f92afc61f0589b2f36e971d84c54b515eb8d2b0985b0bec86acc4655afc",
+    "baseline_sha256": null
+  },
+  "research/verification/CAPTURE_STUDIO_FIX.md": {
+    "sha256": "399b26b3a7dcc67204a52bb47679555dbd324b9e1305a5e6073d01a1d9b31331",
+    "baseline_sha256": null
+  }
+}
